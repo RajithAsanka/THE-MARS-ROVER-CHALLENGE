@@ -1,5 +1,5 @@
 # THE-MARS-ROVER-CHALLENGE
-The Mars rover challenge automated solution by Rajith Asanka using java as the main programming language.
+The Mars rover challenge automated solution by Rajith Asanka using java programming language.
 
 ![](images/NASA_Mars_Rover.jpg)
 
